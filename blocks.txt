@@ -39,7 +39,7 @@ inmobi.com
 inner-active.mobi
 liftoff.io
 lyr.pubmatic.com
-ms.applovin.com
+applovin.com
 nj-dsp-ads.ifstmedia.com
 ocsp.godaddy.com
 one.elitebidder.com
