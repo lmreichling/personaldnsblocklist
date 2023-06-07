@@ -82,3 +82,10 @@ got.iad3rs0zone1.pubnative.net
 apps.identrust.com
 admarvel.com
 static.displayio.cloud
+firebaselogging-pa.googleapis.com
+prod-mediate-events.applovin.com
+eu.a.iteleserve.com
+a.vidoomy.com
+cdn.serveteck.com
+rm.aarki.net
+spire.aarki.net
