@@ -121,3 +121,15 @@ content.inhousedsp.com
 tr-us.adsmoloco.com
 cdn-f.adsmoloco.com
 awstrack.me
+trckr.braveglobal.tv
+ui-backendapi.mobavenue.com
+got.us-east4gcp0.pubnative.net
+surgex.media-412.com
+a.finetunetechs.com
+events-ams.bidder.kayzen.io
+p.finetunetechs.com
+ads.addeliverypixel.com
+ads.adsrvrse.com
+c.finetunetechs.com
+exchange.consumabletv.com
+wins-p2w.sitescout.com
